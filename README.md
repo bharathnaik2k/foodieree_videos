@@ -1,16 +1,31 @@
-# foodieree
+# FoodieRee - Food Discovery App
 
-A new Flutter project.
+## A Flutter-based mobile application for discovering food through short video reels and finding nearby food spots within 10km radius.
 
-## Getting Started
+# ✨ Features
+🎬 Food Reels: Vertical scrolling short food videos with auto-play
 
-This project is a starting point for a Flutter application.
+📍 Location-Based Filtering: Discover food spots within 10km radius
 
-A few resources to get you started if this is your first Flutter project:
+❤️ Like Feature: Save your favorite food reels
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🛍️ Order Integration: "Crave & Order" button for quick ordering
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🗺️ Map View: Visual representation of nearby food locations
+
+📱 Responsive UI: Clean, modern Material Design interface.
+
+# 🛠️ Tech Stack
+Framework: Flutter (Dart)
+
+State Management: Provider
+
+Video Player: video_player
+
+Location Services: geolocator
+
+Maps: google_maps_flutter
+
+Image Caching: cached_network_image
+
+
